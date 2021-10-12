@@ -12,12 +12,12 @@ A brief shop app to practice the basics of Java.
 
 ## Features
 
-- [ ] AppBuilding
-  - [ ] Customer registration
-  - [ ] Item registration
-  - [ ] Listing shop items
+- [x] AppBuilding
+  - [x] Customer registration
+  - [x] Item registration
+  - [x] Listing shop items
 - [ ] Update code
-  - [ ] Better usage of code
+  - [x] Better usage of code
   - [ ] Best practices
 
 ### Project pre-requisites
