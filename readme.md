@@ -47,6 +47,6 @@ Used technologies
 
 Author
 
-![Thiago](https://avatars.githubusercontent.com/u/13528636?v=4?width=50&height=50)
+<img src="https://avatars.githubusercontent.com/u/13528636?v=4" alt="Thiago" style="zoom:33%;" />
 
 [Thiago Falcão](https://github.com/tfalc)
