@@ -32,21 +32,21 @@ Still working on more...
 
 ``git clone https://github.com/tfalc/ShopApp``
 
-Second, access the cloned repository folder
+##### Second, access the cloned repository folder
 
 `` cd shopapp ``
 
-Next run the app
+##### Next run the app
 
 `` javac shopapp `` 
 
-Used technologies
+## Used technologies
 
 - [IntelliJ](https://www.jetbrains.com/pt-br/idea/)
 - [Java](https://www.java.com/pt-BR/)
 
-Author
+## Author
 
-<img src="https://avatars.githubusercontent.com/u/13528636?v=4" alt="Thiago" style="zoom:33%;" />
+![Author](Z:\TIC\git\ShopApp\image-20211012164409921.png)
 
 [Thiago Falcão](https://github.com/tfalc)
