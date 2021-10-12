@@ -47,6 +47,6 @@ Still working on more...
 
 ## Author
 
-![Author](Z:\TIC\git\ShopApp\image-20211012164409921.png)
+![Author](https://media-exp1.licdn.com/dms/image/C4E03AQFulBV7_fTaYw/profile-displayphoto-shrink_200_200/0/1632138196547?e=1639612800&v=beta&t=LNEH3qwSCjrfsFfNaZ21tJgP4FgmiQCtZ5luLli5dbA)
 
 [Thiago Falcão](https://github.com/tfalc)
